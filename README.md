@@ -1,7 +1,7 @@
 # Space Creatures
 Project 4 for NYU CS-UY 3113
 
-Using Raylib Library, programed in C++ to create a platformer.
+Using Raylib Library, programed in C++ to create a platformer from the bottom-up, meaning I made my own 2D Engine.
 
 This project was specifcally to target the AI Models we have in today's games. 
 
